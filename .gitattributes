@@ -1,3 +1,4 @@
 ratings.cvs filter=lfs diff=lfs merge=lfs -text
 ratings.csv filter=lfs diff=lfs merge=lfs -text
 *ratings.csv filter=lfs diff=lfs merge=lfs -text
+rastings.csv filter=lfs diff=lfs merge=lfs -text

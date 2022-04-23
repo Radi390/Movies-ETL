@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-ratings.csv
-
 # C extensions
 *.so
 
@@ -78,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+config.py
 
 # IPython
 profile_default/
